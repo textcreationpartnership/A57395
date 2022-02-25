@@ -1,0 +1,235 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A horrible thing committed in this land</title>
+            <author>Robertson, Thomas, fl. 1658-1685.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1658</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 20 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A57395</idno>
+            <idno type="STC">Wing R1609</idno>
+            <idno type="STC">ESTC R6752</idno>
+            <idno type="EEBO-CITATION">13224356</idno>
+            <idno type="OCLC">ocm 13224356</idno>
+            <idno type="VID">98566</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A57395)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 98566)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 437:1)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A horrible thing committed in this land</title>
+                  <author>Robertson, Thomas, fl. 1658-1685.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Thomas Simmons,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1658.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>An attack on the taking of tithes from Quakers by the Church of England.</note>
+                  <note>Caption title.</note>
+                  <note>Signed: Thomas Robertson.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in Friends' Library, London.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Controversial literature.</term>
+               <term>Tithes --  Early works to 1800.</term>
+               <term>Society of Friends.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-02</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>Susie Lorand</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>Susie Lorand</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:98566:1" rendition="simple:additions"/>
+            <head>A Horrible thing committed in this LAND</head>
+            <p>HEre followeth a Deſcription of the frui<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s of one of the falſe prophets of Kent, who hath gone <gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>er the name of a Miniſter of Chriſt, but by his fruits you may ſee that he amongſt the reſt is ſuch a one as is greedy, and teaches for hire, and bears rule by his meanes, and all the true Prophets have given in their teſtimony in all ages againſt ſuch pra<g ref="char:EOLhyphen"/>ctiſes as he is found in; <hi>Job</hi> ſaith <hi>They ſpied out a houſe in the day time.</hi> And hath not this man done ſo in which he hath made all this ſpoil, but they know not the Light; and ſuch Teachers as he is are they that ſay the light is natural, and natural conſcience, but this man hath made himſelf manifeſt that he knows not the light, and that his conſcience is corrupt and ſeared, and he is without natural affection, and as a natural bruit beaſt wch puſheth with his ſide &amp; ſhoulder, ſo hath he made manifeſt himſelf to be; who hath not loved his neighbour, neither the innocent, and ſo he hath not fulfilled the Law and the Prophets, neither hath he loved his bro<g ref="char:EOLhyphen"/>ther whom he hath ſeen, and therefore doth not love God whom he cannot ſee; and therefore let him and all ſuch for ever ceaſe to ſpeak in his Name, who hates to be reformed, they hate the right way of the Lord who ſends forth freely, &amp; this is <hi>Balaams</hi> way wch they are in, nay worſe, for he loved the wages of unrighteouſneſſe, but durſt not take it, but this man hath taken the unrighteous wages at large, who is a ſhame to the Miniſters in theſe dayes, who have ſaid they were ſent of God, but have brought us theſe fruits to make them manifeſt, that they ran, and the Lord never ſent them, and therefore they do not profit the people at all, and he is ſuch a one who is a ſhame to his Countrey, and unto the foun<g ref="char:EOLhyphen"/>tain from whence he proceeded which hath brought forth ſuch bitter water, and the bleſſings of ſuch hath the Lord curſed, yea even already ſaith the Lord, and dung doth he ſpread upon their faces, &amp; Chriſt ſaith, by their fruits the falſe Prophets are known, <hi>he came not to deſtroy mens lives but to ſave them.</hi> And he ſaid unto <hi>Peter, put up thy ſword,</hi> and he did not deſtroy peoples eſtates, nei<g ref="char:EOLhyphen"/>ther any that he ſent forth, but they were as examples, and if any did detain any thing from them which was their due, they for ſo
+<pb n="2" facs="tcp:98566:2"/>
+doing did not render evil, for evil or rayling, for rayling, they were far from making havock, but ſaith the Apoſtle <hi>after my de<g ref="char:EOLhyphen"/>parture ſhall grievous Wolves ariſe which will not ſpare the flock</hi> and ſuch drew away Diſciples after them, and theſe grievous Wolves, how do they deſtroy, how do they raven as the Preieſt of the Pariſh of <hi>Elmeſtone</hi> hath done? who is a <hi>fierce deſpiſer of them that are good,</hi> and all the Wolves that we read on ever ſince the days of the Apo<g ref="char:EOLhyphen"/>ſtles, that hath been grievous did never make ſuch a ſpoil neither ſuch a havock as he hath done, who without pitty or bowels of compaſſion, hath exceeded them in this thing, ſhewing out his enmity againſt <hi>Robert Minter,</hi> his Wife and family to deſtroy them, but alſo ſhe as a tender Mother, who with natural care and ten<g ref="char:EOLhyphen"/>derneſſe, did provide things honeſt both for her ſelf, and alſo for her houſe, in the ſight of God and all people, and alſo for her childe which as yet was in her womb, unbrought forth, that when the time appointed of her deliverance ſhould come, ſhe and it might be preſerved by ſuch things and neceſſaries as God had enabled her to provide; And travel comming ſuddenly upon a woman with childe, ſhe had linen cloaths and clouts provided ſu<g ref="char:EOLhyphen"/>table for it; and before it was brought forth, this havock was made without pitty either to the Child or yet to the tender Mother, which might have cauſed great grief of heart, and ſudden labour, if the Lord had not ſupported her, ſo that ſhe and the child too might have gone neer to have been loſt if not both together, and thoſe dayes her laſt dayes, laying down her head in ſorrow, taking away their corn, pannes, and other things as is hereafter menti<g ref="char:EOLhyphen"/>oned that ſhe could not have that reliefe for her ſelf neither, for it as in that caſe is required. Oh horrible and wonderful, if <hi>Je<g ref="char:EOLhyphen"/>remiah</hi> had been in theſe dayes, here had been a wonderfull horri<g ref="char:EOLhyphen"/>ble, and a filthy thing to have cryed againſt, nay all the falſe Prophets, he hath outſtript, and gone beyond them all; what could he require of the child in the womb, or of that man who did not hear him nor did receive any ſpiritual thing from him, is not this ſuch a one as did oppreſſe a man and his houſe, and if <hi>Iſay</hi> had lived in theſe dayes, would he not have declared him to be a greedy dog, and ſuch a ſhepherd that could not underſtand, that looks to their own way, <hi>and ſeeks for their gain from their quarter</hi> as you may ſee in <hi>Iſa.</hi> 56. 10, 11. And if <hi>Ezekiel</hi> had lived in
+<pb n="3" facs="tcp:98566:2"/>
+theſe dayes, might not he have prophecyed againſt this ſhepherd and have cryed wo againſt him, as he did againſt thoſe ſhepherds? in Ezek 34. 2, 3, 4, <hi>the diſeaſed he hath not ſtrengthened he hath not healed that wch was ſick, neither hath he bound up that which is broken, neither hath he brought again that wch is driven away,</hi> but on the contrary, he hath rather made ſick, rather diſeaſed, rather made weak, even where there was no ſickneſſe, and where there was noe diſeaſe, and ſo hath made <hi>the heart of the Righteous ſad, whom the Lord hath not made ſad,</hi> but he hath ruled with force and with cruelty, and doth eat the fat, and cloath with the wool, but the beaſt fed are ſlain. Now conſider ſhould not the ſhepherds, feed the flocks, as you may ſee in the ſecond verſe, and ſhould not he that plants a vineyard eat of the fruit thereof? now the ſhepherds are firſt to feed the flock, and ſow unto them Spiritual things, then it were a ſmall matter if they did reap their carnals, a little meat and drink as the Miniſters of Chriſt have, and had, and if <hi>Hoſea</hi> had been in theſe dayes who did hear the Word of the Lord, might he not well have cryed out, <hi>As a troop of Robbers wait for a man, ſo the company of Prieſts murder in the way by conſent? Hoſea,</hi> 6. 9. And if <hi>Micah</hi> who was truly full of that ſpirit, would he not have ſaid of him, as he ſaid of them that cauſed the Lords people to erre, <hi>and did bite with their teeth, and cry peace to them that put into their mouthes, but them that did not, they prepare war againſt them?</hi> as <hi>Micah</hi> 3. and 5. And ſuch a one who hates the good and loves the evil, <hi>who pluck off their skin from off them, and their fleſh from off their bones, and who eat the fleſh of my people, and flay their skin from off them, and they break their bones, and chops them as for the pot and cauldron.</hi> But throughout all the Prophets ſearch and ſee unto whom ye can compare him, for <hi>Job</hi> ſaith in the 24, and 10. <hi>they cauſe him to goe naked without cloathing, they take the ſheaf from the hungry;</hi> and ſo all the true Prophets have borne witneſſe againſt ſuch practiſes as theſe, though for ſo doing, they were ſawn in ſunder, impriſoned, whipped, tormented and afflicted, in tryals of cruel mockings, ſcourgings, impri<g ref="char:EOLhyphen"/>ſonments and bonds; Let all the Saints and Children of light try him, and judge of him or any who hath any ſavour in themſelves, if he be good and ſavory among Chriſtians to be called a Miniſter of Chriſt, I am ſure true Chriſtians can give
+<pb n="4" facs="tcp:98566:3"/>
+him no ſuch name being he is in an another nature, but will turn away from him as from a proud man and a covetous man, as the Apoſtle exhorts in 2 <hi>Tim.</hi> 3. 1, 2, 3, 4. and <hi>from ſuch a one as hath the form of Godlineſſe, and not the power,</hi> and ſo we do turn away from ſuch and from them that bindes heavy burdens upon people, grievous to be born, which Chriſt cryed wo againſt, and is not this grievous to be borne, to be thus ſpoiled, to be thus bitten? let him bring us one Scripture either from the falſe Prophets or yet from the true, where any of them did ſuch things to the height, as he hath done even to <hi>clouts and pins,</hi> not leaving them a change to their backs but what they had on, how wofully is this man run on in the apoſtacy; for the Apo<g ref="char:EOLhyphen"/>ſtles and Saints they had bowels of compaſſion of love, and them that gain-ſaid the truth and withſtood them, they waited in patience and all long ſuſſering, that if it pleaſed God they might have repentance unto life, and they had their converſa<g ref="char:EOLhyphen"/>tion honeſt amongſt the Gentiles, and ſuch as did become the Goſpel of Chriſt, and of God, and the Miniſters of Chriſt ex<g ref="char:EOLhyphen"/>horted to theſe things, and they were <hi>no ſtrikers nor brawlers, nor covetous,</hi> but ſaid <hi>ſuch could not inherit the Kingdome of God<g ref="char:punc">▪</g>
+               </hi> and covetouſneſſe was not once to be mentioned amongſt them, nor idle words and jeſting, but as becometh ſaints to put it away, for they that did ſuch things, which were falſe brethren and falſe Apoſtles, they received the recompence of reward in themſelves as was meet, <hi>for the wrath of God cometh upon the children of diſobe<g ref="char:EOLhyphen"/>dience</hi> and they received this for their error as was meet. And the Apoſtle exhorted to all goodneſſe, and to uſe <hi>hoſpitality with<g ref="char:EOLhyphen"/>out grudging,</hi> and he did ſo that laboured in the word and do<g ref="char:EOLhyphen"/>ctrine unto whom a diſpenſation of the Goſpel of Chriſt was committed, as ye may ſee where he ſaith <hi>theſe hands have mini<g ref="char:EOLhyphen"/>ſtered unto my neceſſities, and to them that are with me:</hi> And he ſaith in the firſt of <hi>Theſsalon.</hi> 4. and the 6. <hi>that no man goe beyond his bro<g ref="char:EOLhyphen"/>ther in any matter, becauſe that the Lord is the avenger of all ſuch as we alſo have forewarned you and teſtified.</hi> Now you may ſee the Apo<g ref="char:EOLhyphen"/>ſtle a Miniſter of Chriſt, he could bring in his Teſtimony, he could teſtifie that he had not gone beyond his brother in any matter, and he laboured with his hands that the Goſpel might be without charge, this was a good Teſtimony, and away to
+<pb n="5" facs="tcp:98566:3"/>
+win people to God, for it was for that end that the Apoſtle preached to bring people unto God, <hi>to turn them from the darkneſs to the light,</hi> from evil unto good, and the ſervant of the Lord, ſaith <hi>he muſt not ſtrive but be apt to teach to be gentle endureing in much pati<g ref="char:EOLhyphen"/>ence, in affliction;</hi> Come, are ye here? nay you afflict, many of you, and are in <hi>Cains</hi> way, as this man who beyond the bond or limit of charity hath extended, and he is not in Chriſt, but hath brought forth the fruits of the fleſh, and not of the Spirit; for did ever any Miniſter of Chriſt who was in the Spirit, bring forth ſuch fruits? nay they were aſhamed of ſuch, and cryed againſt them that they were in <hi>Cains</hi> way, <hi>Kores &amp; Balaams,</hi> following and loving the wages of unrighteouſneſs, and theſe were as wels with<g ref="char:EOLhyphen"/>out water, and cloudes without rain, carried about with a tempeſt: do you not ſee how fiercely they go on, and what a tem<g ref="char:EOLhyphen"/>peſt they come withall, that they that receive the light muſt en<g ref="char:EOLhyphen"/>dure great afflictions, bonds and impriſonments, but it is but that their folly may be made manifeſt, and they ſhall proceed no further, but as natural brute beaſts are made to be taken and deſtroyed, and ſhall periſh in their own corruptions, and the ſer<g ref="char:EOLhyphen"/>vants of the Lord that endures to the end ſhall be ſaved, and his jewels will he binde up, and ſo all ye that are in the light, and who for receiving hath ſuffered loſſe of goods and liberty, yet ye dwelling in the light, will ſee your reward and your crown of rejoycing, and God on your part will be glorified and well ſpo<g ref="char:EOLhyphen"/>ken of, but of your enemies evil, its becauſe they know not God that they know not you, neither do they know the light, they know not that which exerciſeth the conſcience towards God and man, and this man is not fit to teach others who is not taught of God, and is not in the practiſe of the Godly, let them that are in authority try him if he be not inſufficient, and hath taken a yoke of bondage upon his neck, and is not he entangled with theſe things? And again, is he not ſcandalous, and an evil ex<g ref="char:EOLhyphen"/>ample to the flock that he is ſet over? And conſider with what he can feed them, or what benefit can they receive from him? And to inform you, it is for conſcience ſake that we cannot pay tithes, and becauſe the prieſt-hood is changed which did receive tithes; and ſo for bearing witneſſe to this Prieſt who is a Prieſt for ever made after the power of an endleſſe life, is this ſpoile
+<pb n="6" facs="tcp:98566:4"/>
+made by him who profeſſes him in words, but in works hath denyed him, whom we in all our ſufferings bear teſtimony to, even unto him who endured the Croſſe, and deſpiſed the ſhame for the glory that was ſet before him; and ſo the ſervant muſt not be greater then his Lord, this we know, and if it were not for him, we could not endure with patience, but he hath ap<g ref="char:EOLhyphen"/>pointed his that through many tribulations they ſhall enter the Kingdom of God; but wo is to the troublers, and to <hi>Sions</hi> op<g ref="char:EOLhyphen"/>preſſors, for the Lord will not caſt off his people, neither ſhall they be clean forſaken, but the deſtroyer for their ſakes ſhall be rebuked, and he hath ſaid <hi>vengeance is mine and I will repay,</hi> And ſo we are not careful in this thing (it being for conſcience ſake, and not for ſaving of the earth) to anſwer any in this matter, but the God whom we ſerve will in his time deliver us, and if not, be it known unto you that we ſhall not uphold ſuch falſe<g ref="char:EOLhyphen"/>prophets, neither worſhip their God in the Idols Temple, but God who is a Spirit, him we will worſh<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>p, and him will we obey, and will not fear what man can do, man that can but kill the body, and can do no more, but rather we will fear him that after he hath killed the body, can caſt both body and ſoul into Hell; and we are turned away from ſuch as he is, for from the leaſt of them even unto the greateſt, they are all given to co<g ref="char:EOLhyphen"/>vetouſneſſe and to deal falſely, crying peace where there was no peace, were they aſhamed when they had committed abomi<g ref="char:EOLhyphen"/>nation? Nay, they were not aſhamed, neither could they bluſh, though as a fountain caſteth out her waters, ſo did they caſt out their wickedneſſe; violence and ſpoil is heard in her, before me continually is grief and wounds, as you may ſee in <hi>Jeremiah</hi> 6. 7. to 16. Now can we call thoſe the Miniſters of Chriſt, which are in theſe things, that are not aſhamed and cannot bluſh, or how can we hold them up any longer? or why ſhould any be diſpleaſed that we declare them to be falſe Prophets, deceivers and Antichriſts, ſeeing ſuch fruits is found among them, and his fruit is laid before you to be read? and if he bluſh and be aſham<g ref="char:EOLhyphen"/>ed, and make reſtitution, according to Gods Law, unto whom he hath wronged, then it may go well with him, if not, he will fall among them that fall in the day when the Lord viſits him.</p>
+            <p>And now is he warned and exhorted to prize his time, and the
+<pb n="7" facs="tcp:98566:4"/>
+reſt of you that are found in theſe practiſes. And unto whom this ſhall come, if you will juſtifie ſuch practiſes as you are in to be according to the Miniſters of Chriſt, come forth openly to thoſe people that are called Quakers, and you ſhall be heard, or elſe for ever ceaſe to back-bite, or rail upon them when they are not there.</p>
+            <closer>
+               <signed>Thomas Robertſon.</signed>
+            </closer>
+         </div>
+         <div type="list_of_expropriated_property">
+            <head>Taken from <hi>Robert Minter</hi> Farmer the fourth day of the fourth moneth, in the year 1658. for Tithes, by the Prieſt <hi>Alexander Bradley</hi> in the Pariſh of <hi>Elm<g ref="char:EOLhyphen"/>ſtone</hi> in the County of <hi>Kent.</hi>
+            </head>
+            <list>
+               <item>Firſt, Two feather-beds.</item>
+               <item>Three feather-bolſters.</item>
+               <item>One pillow.</item>
+               <item>One flock-bed.</item>
+               <item>One flock-bolſter.</item>
+               <item>One bead-ſtead.</item>
+               <item>Two pair of curtains.</item>
+               <item>Two pair of valens.</item>
+               <item>Iron rods for two beds.</item>
+               <item>Cords for two beds.</item>
+               <item>Four blankets.</item>
+               <item>Two cover cloaths.</item>
+               <item>One rug.</item>
+               <item>Ten pair of ſheets.</item>
+               <item>Two pair of pillow-bears.</item>
+               <item>Six towels.</item>
+               <item>Five table-cloathes.</item>
+               <item>Twenty one pieces of pewter.</item>
+               <item>Three ſpoons.</item>
+               <item>Four braſſe kettles.</item>
+               <item>A brewing-furnace.</item>
+               <item>One warning-pan.</item>
+               <item>One skillet.</item>
+               <item>Four chiſts.</item>
+               <item>One trunke.</item>
+               <item>One dozen of trenchers.</item>
+               <item>Three forms.</item>
+               <item>Two tables.</item>
+               <item>One frame.</item>
+               <item>Three milking-pails.</item>
+               <item>One ſpade.</item>
+               <item>One mattock.</item>
+               <item>One dung-fork.</item>
+               <item>Five horſe-harneſſe.</item>
+               <item>One pillion and covering.</item>
+               <item>Eleven quarters and an half of Wheat.</item>
+               <item>Thirteen ſacks.</item>
+               <item>Three buſhels of barley.</item>
+               <item>One hundred and an halfe of Hops.</item>
+               <item>Twenty and one Lambs.</item>
+               <item>Three ſheep.</item>
+               <item>Five calves.</item>
+               <item>Thirty hogs and pigs.</item>
+               <item>Ninteen changes for men and Women.</item>
+               <item>
+                  <pb n="8" facs="tcp:98566:5"/>Fourty five double clouts for a young child.</item>
+               <item>Twelve beds.</item>
+               <item>Five double neck-cloaths.</item>
+               <item>Four pair of ſleeves.</item>
+               <item>Six caps for a woman.</item>
+               <item>Two neck-cloaths.</item>
+               <item>Thirty two ſmall pieces of fine linnen for a childe.</item>
+               <item>Seven chin-ſtaies.</item>
+               <item>Four blankets.</item>
+               <item>One mantle.</item>
+               <item>Three ſhirts.</item>
+               <item>Three biggins.</item>
+               <item>Four double croſſe-cloaths for a Woman.</item>
+               <item>One firſt ſute for a child.</item>
+               <item>One ſwaddle-band.</item>
+               <item>One back-band.</item>
+               <item>Two double bibs.</item>
+               <item>One vail.</item>
+               <item>One dreſſing.</item>
+               <item>Three pin-cuſhins and pins.</item>
+               <item>Beſide a thouſand of pins.</item>
+               <item>One night-waſte-coat.</item>
+               <item>Halfe a cheeſe.</item>
+            </list>
+            <p>And the Prieſts company broached a veſſel of ſtrong bear of which they drank ſo exceſſively, that they left the tap droping out all the reſt.</p>
+            <p>The value of the goods taken was judged to be worth ninty three pounds ſixteen ſhillings and eight pence.</p>
+            <closer>
+               <signed>Robert Minter.</signed>
+            </closer>
+         </div>
+         <div type="continuation_of_text">
+            <p>This is but one of many hundreds that have been ſpoiled of their goods (and ſome of their lives) by this <hi>troop of Robbers and Murderers;</hi> more of their cruelty may be read in a book Intituled <hi>A Record of ſufferings for Tithes in</hi> England.</p>
+            <trailer>THE END.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Thomas Simmons,</hi> at the Bull and Mouth near <hi>Alderſgate,</hi> 1658.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
